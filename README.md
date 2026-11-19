@@ -642,6 +642,15 @@ Se dominares estes conceitos, já terás uma boa base de Python para compreender
 -----------------------
 
 
+
+
+ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•
+
+
+
+
+-----------------------
+
 ## Keylogger
 
 Keylogger é um tipo de malware que vai ter como objetivo, registrar tudo que é digitado no teclado da vítima; cada letra, cada número, cada espaço, cada tecla especial, etc. Tudo é gravado em um arquivo e isso pode incluir, senhas, conversas, dados bancários, fofocas e etc. Por isso que é uma das ferramentas mais comuns e um dos ataques mais silenciosos é a utilização dos Keyloggers.
