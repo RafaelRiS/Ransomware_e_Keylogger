@@ -28,7 +28,7 @@ São vírus digitais que entram sem a gente perceber e se escondem.
 
 Temos muitos exemplos:
 
-![[imagens/Exemplos.png]]
+![Exemplos](./imagens/Exemplos.png)
 
 - Vírus:
 	- Ele funciona de forma muito parecida com o vírus biológico; Ele vai se anexar a um arquivo legítimo que pode ser, um documento, um executável ou até mesmo instalador; e só vai entrar em ação quando aquele arquivo/ executável/ instalador for aberto. Quando isso acontece, o vírus vai se ativar e vai tentar se espalhar para outros arquivos do sistema. Isso pode comprometer os Dados, deletar arquivos e até fazer cópias de si mesmo. E ele é um tipo clássico de malware, super conhecido muito comum nas décadas passadas; principalmente quando o principal meio de se espalhar era o pendrive ou disquetes ou CDs.
